@@ -1,0 +1,16 @@
+VehicleID	Year	Make	Model	Passengers	Type	Status	Records	LastMaintenance	Rate	ImageLink
+C_001	2000	Mazda	3	4	Car	AVAILABLE			78	C_001.jpg
+C_002	2009	Hyundai	i30	4	Car	AVAILABLE			78	C_002.jpg
+C_003	2003	Mitsubishi	Magna	7	Car	AVAILABLE			113	C_003.jpg
+C_004	1979	Saab	900	7	Car	AVAILABLE			113	C_004.jpg
+C_005	2019	Subaru	Forester	7	Car	AVAILABLE			113	C_005.jpg
+C_006	2019	Renault	Kangoo	4	Car	AVAILABLE			78	C_006.jpg
+C_007	2015	Ford	EcoSport	7	Car	AVAILABLE			113	C_007.jpg
+C_008	2016	Mercedes-Benz	C-Class	4	Car	AVAILABLE			78	C_008.jpg
+C_009	2018	Volkswagen	Polo	4	Car	AVAILABLE			78	C_009.jpg
+C_010	2015	Honda	CR-V	7	Car	AVAILABLE			113	C_010.jpg
+V_001	2017	Renault	Trafic	15	Van	AVAILABLE		19022019	235	V_001.jpg
+V_002	2010	Mitsubishi	Express	15	Van	AVAILABLE		19022019	235	V_002.jpg
+V_003	2013	Ford	E250	15	Van	AVAILABLE		19022019	235	V_003.jpg
+V_004	2013	Holden	Panel Van	15	Van	AVAILABLE		19022019	235	V_004.jpg
+V_005	2018	Volkswagen	Crafter	15	Van	AVAILABLE		19022019	235	V_005.jpg
